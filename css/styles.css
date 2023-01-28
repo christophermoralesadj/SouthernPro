@@ -7,11 +7,15 @@ h1, h2, h3 {
 }
 
 h2 {
-    color: #3046C5;
+    color: black;
 }
 
 header h2 {
     color: white;
+}
+
+p {
+    font-size: large;
 }
 
 .site-footer {
